@@ -1,0 +1,125 @@
+{
+  "main": {
+    "id": "107fdaed2e10e616",
+    "type": "split",
+    "children": [
+      {
+        "id": "315c6dd446df64af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17198a68bddf85bb",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "85fa068e4be42281",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "93fa35765e9d7717",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "30f32d89e1e6b57e",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "50d655fa7d43a8f4",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "0a5c3ad2994ea1db",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "a9f2f64b1df2c4ca",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "4a27693f8753884b",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "f704e2157822b242",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "59b4def0fde8be96",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 1
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "17198a68bddf85bb",
+  "lastOpenFiles": [
+    "报文格式地址地图/数据链路层/生成树协议.md",
+    "网络知识点/网络知识点--内网部署类.md",
+    "报文格式地址地图/数据链路层/生成树协议 (1).md"
+  ]
+}

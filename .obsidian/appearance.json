@@ -1,0 +1,14 @@
+{
+  "accentColor": "#53ff14",
+  "theme": "obsidian",
+  "translucency": false,
+  "monospaceFontFamily": "Source Code Pro,Inter,MiSans",
+  "enabledCssSnippets": [
+    "Obsidian Nord"
+  ],
+  "interfaceFontFamily": "MiSans",
+  "textFontFamily": "MiSans",
+  "baseFontSize": 18,
+  "nativeMenus": true,
+  "cssTheme": "Blue Topaz"
+}

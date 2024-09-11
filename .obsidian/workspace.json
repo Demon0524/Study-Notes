@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "2762cf73a07ef089",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba15c1b6d59e2872",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76658d08379fbc64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-ComputerNetwork/eNSP-实验/HCIA实验12.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "387d096ff1e6fbe2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-Linux/Ending-Exam/RHCE_考试笔记/RHCE_视频知识点/动态清单 & 配置并行.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "91aef760a9a2bb21",
+    "type": "split",
+    "children": [
+      {
+        "id": "b28900d74a24ebc6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e5cd327ed0e84ce7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cfd462759da8921e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "55d776a55c490d05",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "json",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "b4c20a581de93c28",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f455efccb874fad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de0d0ee41cb685b4",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "aab927144d21a2f1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2-Linux/Ending-Exam/RHCE_考试笔记/RHCE_视频知识点/动态清单 & 配置并行.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 230.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "media-extended:Open media": false
+    }
+  },
+  "active": "387d096ff1e6fbe2",
+  "lastOpenFiles": [
+    "2-Linux/Jinja2/1-介绍.md",
+    "1-ComputerNetwork/eNSP-实验/HCIA实验12.md",
+    "2-Linux/Jinja2",
+    "X-日记本/2022-10-18.md",
+    "测试.md",
+    "2-Linux/2-Dircetory.md",
+    "2-Linux/Ending-Exam/RHCE_考试笔记/RHCE_视频知识点/when条件_hanlder程序处理_block简介.md",
+    "8-Work Date/telnet测试方案.md",
+    "2-Linux/Ending-Exam/RHCE_考试笔记/RHCE-294/RHCE-294-模拟环境练习.md",
+    "2-Linux/Ending-Exam/RHCE_考试笔记/RHCE-294/RHCE-294-考试题.md",
+    "8-Work Date/Note_DISK-磁盘相关/大数据-换盘.md",
+    "8-Work Date/Note_DISK-磁盘相关/特殊情况大数据换盘.md",
+    "8-Work Date/Linux Tools/安装阵列卡工具.md",
+    "FTP脚本-杂.md",
+    "登录方式.md",
+    "2-Linux/Linux Commands/5-RAID/RAID-详解.md",
+    "8-Work Date/主机优化方案/134.84.46.13-主机调优.md",
+    "8-Work Date/主机优化方案/格式化输出外部链接.md",
+    "8-Work Date/主机优化方案/检查文件系统只读.md",
+    "8-Work Date/主机优化方案/检查主机外部链接.md",
+    "8-Work Date/主机优化方案/网卡RXdrop排查优化流程.md",
+    "8-Work Date/主机优化方案/Boce-统计非当日拨测脚本进程.md",
+    "8-Work Date/主机优化方案/Boce-优化拨测脚本.md",
+    "8-Work Date/主机优化方案/Boce-统计拨测失败次数.md",
+    "8-Work Date/Note_OS-初始化/大数据系统-升级初始化.md",
+    "2-Linux/Linux Commands/2-磁盘管理/LVM-实验.md",
+    "1-ComputerNetwork/报文格式地址地图/应用层/DHCP报文格式.md",
+    "测试",
+    "8-Work Date.zip",
+    "2-Linux.7z",
+    "A-Accessories-Note附件/a621b4d61c41691c4f01ca7952903bc2.png",
+    "比赛/脚本",
+    "比赛",
+    "2-Linux/Learning/1-Docker/未命名",
+    "A-Accessories-Note附件/主机权限工单-4A平台到计费公共pg数据库的网络申请--20231116.xlsx",
+    "A-Accessories-Note附件/主机权限工单-4A平台到计费公共pg数据库的网络申请--20231116.xlsx.nssyncsc",
+    "A-Accessories-Note附件/~$主机权限工单-4A平台到计费公共pg数据库的网络申请--20231116.xlsx",
+    "A-Accessories-Note附件/ITSM_工单池_告警工单池（未接单）.png",
+    "A-Accessories-Note附件/HCIA实验12-拓扑图.jpg",
+    "A-Accessories-Note附件/Pasted image 20240517235002.png",
+    "A-Accessories-Note附件/Pasted image 20240517224315.png",
+    "A-Accessories-Note附件/Pasted image 20240512155114.png",
+    "A-Accessories-Note附件/Pasted image 20240423153345.png",
+    "A-Accessories-Note附件/RAID_条带.png",
+    "A-Accessories-Note附件/RAID_热备盘.png",
+    "A-Accessories-Note附件/RAID_定义.png",
+    "未命名.canvas"
+  ]
+}
