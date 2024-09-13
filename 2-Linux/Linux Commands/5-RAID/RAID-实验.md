@@ -10,7 +10,7 @@
 
 ## 创建RAID阵列
 
-> 使用`/dev/sd{b,c,d,e，f}1`创建`RAID5`磁盘冗余阵列
+> 使用`/dev/sd{b,c,d,e,f}1`创建`RAID5`磁盘冗余阵列
 ```shell
 mdadm -Cv /dev/md0 -n 4 -l 5 -a yes -x 1 /dev/sd{b,c,d,e,f}1
 # -C：创建 /dev/md0 的磁盘冗余阵列
