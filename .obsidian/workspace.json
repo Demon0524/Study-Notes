@@ -11,8 +11,13 @@
             "id": "6920aa76f82c6b8f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2-Linux/Linux系统底层知识/深入理解Linux内存分配.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -88,7 +93,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2-Linux/Linux系统底层知识/深入理解Linux内存分配.md"
+              }
             }
           }
         ],
@@ -112,6 +119,17 @@
   },
   "active": "6920aa76f82c6b8f",
   "lastOpenFiles": [
+    "2-Linux/Linux Kernal/IO知识/Linux_内核看socket底层的本质(IO).md",
+    "2-Linux/Linux Kernal/IO知识/Linux_磁盘IO-dirty相关数据.md",
+    "2-Linux/Linux Kernal/IO知识/Linux_IO模型.md",
+    "2-Linux/Linux Kernal/IO知识/Linux_脏页命令.md",
+    "2-Linux/Linux Kernal/IO知识/Linux_刷脏策略.md",
+    "2-Linux/Linux Kernal/IO知识/Linux_深入理解脏页.md",
+    "2-Linux/Learning/1-Docker/10. 结合Dockerfile、docker volume、docker network小结.md",
+    "2-Linux/Learning/1-Docker/7. Dockerfile指令.md",
+    "2-Linux/Learning/1-Docker/Exam - dockerfile、docker volume、docker network.md",
+    "2-Linux/Linux Kernal/GRUB引导修复.md",
+    "2-Linux/Ending-Exam/RHCE_考试笔记/RHCE-294/RHCE_294-PDF答案.md",
     "README.md",
     "X-日记本/2023-04-21.md",
     "X-日记本/2022-11-06.md",
@@ -127,14 +145,7 @@
     "X-日记本/2022-10-21.md",
     "X-日记本/2022-10-20.md",
     "X-日记本/2022-10-19.md",
-    "X-日记本/2022-10-18.md",
     "X-日记本",
-    "T-Template-模板文件/报文Tag Template.md",
-    "T-Template-模板文件/IpTables配置模版-连续源、多端口.md",
-    "T-Template-模板文件/IpTables配置模版-连续源、单端口.md",
-    "T-Template-模板文件/IpTables配置模版-多源、多端口.md",
-    "T-Template-模板文件/IpTables配置模版-多源、单端口.md",
-    "T-Template-模板文件/Date&Time Template.md",
     "T-Template-模板文件",
     "A-Accessories-Note附件/逻辑卷管理器的技术结构.png",
     "A-Accessories-Note附件/逻辑卷管理器使用流程图.png",
@@ -151,10 +162,6 @@
     "A-Accessories-Note附件/RAID_1.png",
     "A-Accessories-Note附件/RAID_0.png",
     "A-Accessories-Note附件",
-    "3-DataBase/MySQL知识点/进阶篇/4、SQL 优化.md",
-    "3-DataBase/MySQL知识点/进阶篇/3、性能分析.md",
-    "3-DataBase/MySQL知识点/进阶篇/2、索引.md",
-    "3-DataBase/MySQL知识点/进阶篇/1、存储引擎.md",
     "3-DataBase/MySQL知识点/进阶篇",
     "3-DataBase/MySQL知识点/基础篇",
     "3-DataBase/MySQL知识点",
